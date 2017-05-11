@@ -85,7 +85,7 @@ Subscription setup
 
 .. code::
 
-  node index.js
+  node example.js
 
 **🤖  Save your app's credentials**
 
