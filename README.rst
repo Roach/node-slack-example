@@ -93,7 +93,7 @@ Once you've authorized your app, you'll be presented with your app's tokens.
 
 .. image:: https://cloud.githubusercontent.com/assets/32463/24877652/d8eebbb4-1de4-11e7-8f75-2cfb1e9d45ee.png
 
-Copy your app's **Bot User OAuth Access Token** and add it to your python environmental variables
+Copy your app's **Bot User OAuth Access Token** and add it to your environmental variables
 
 .. code::
 
@@ -103,7 +103,7 @@ Next, go back to your app's **Basic Information** page
 
 .. image:: https://cloud.githubusercontent.com/assets/32463/24877833/950dd53c-1de5-11e7-984f-deb26e8b9482.png
 
-Add your app's **Verification Token** to your python environmental variables
+Add your app's **Verification Token** to your environmental variables
 
 .. code::
 
